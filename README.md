@@ -1,1 +1,2 @@
-# translation-tash
+# trans-app-tash
+REAL TIME TRANSLATION APP
